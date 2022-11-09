@@ -574,6 +574,17 @@ Style for Buttons
   background: #021533;
   font-weight: normal;
 }
+
+.res-col{
+   color: #ffffff; 
+    font-size: 0.8em;
+}
+.fa-download{
+    color: #ffffff; 
+}
+.fa-paper-plane{
+      color: #ffffff; 
+}
 .btn-default3 {
   background: #d9212a;
   color: #ffffff;
